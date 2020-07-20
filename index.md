@@ -20,6 +20,3 @@ Information Systems, Big Data Analystics, Medical Informatics, Natural Language 
 ![Winter lake](winter-lake.jpg)
 
 ![Prince's Island](prince-island.jpg)
-
-## Motto
-Quit your job, buy a ticket, get a tan, see the world and fall in love. 
