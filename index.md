@@ -1,8 +1,8 @@
-## Donghua Chen
+## Intro
 
-Hi, I am Donghua Chen, an assistant professor in University of International Business and Economics, Beijing, China. 
+Hi, I am [Donghua Chen](https://github.com/dhchenx), an assistant professor in University of International Business and Economics, Beijing, China. 
 
-### Projects
+## Projects
 
 1. [Catla](https://github.com/dhchenx/Catla-HS): A self-tuning system for MapReduce performance tuning on Hadoop and Spark
 
