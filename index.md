@@ -10,3 +10,5 @@ Information Systems, Big Data Analystics, Medical Informatics, Natural Language 
 
 2. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
 
+## Life in Calgary
+![Amazing Life](amazing-life.jpg)
