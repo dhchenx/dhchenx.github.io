@@ -1,6 +1,6 @@
 ## Introduction
 
-Dr. Donghua Chen is an Assistant Professor in School of Information Technology and Management, University of International Business and Economics, Beijing, China. 
+Dr. Donghua Chen is a University Lecturer in School of Information Technology and Management, University of International Business and Economics, Beijing, China. 
 
 ## Research Areas
 Information Systems, Big Data Analystics, Medical Informatics, Natural Language Processing, and Knowledge Engineering. 
