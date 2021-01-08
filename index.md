@@ -26,9 +26,13 @@ Email: dhchen@uibe.edu.cn
 
 ## Research Areas
 1. Information Systems
+
 2. Big Data Analystics
+
 3. Medical Informatics
+
 4. Natural Language Processing
+
 5. Knowledge Engineering
 
 ## Selected Publications
