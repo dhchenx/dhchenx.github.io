@@ -14,7 +14,7 @@ Here we apply topic modeling methods in obtaining topic distribution of VAERS re
 
 ### 2. Multi-label Classification
 
-Based on topic-based labels obtained above, various types of multi-label classification methods has been applied and improved towards vaccine adverse event detection. The methods mainly includes four types, namely, problem transformatoin, one-vs-rest, algorithm adaption and deep learning methods. Each type may contain a series of techniques to handle complexity of classifying VAERS reports. 
+Based on topic-based labels obtained above, various types of multi-label classification methods have been applied and improved towards vaccine adverse event detection. The methods mainly includes four types, namely, problem transformatoin, one-vs-rest, algorithm adaption and deep learning methods. Each type may contain a series of techniques to handle complexity of classifying VAERS reports. 
 
 ## Results
 
@@ -55,5 +55,5 @@ The model with K=14 is [here](visualize/pyLDAvis_14.html).
 
 The model with K=15 is [here](visualize/pyLDAvis_15.html).
 
-
-More are comming. 
+# Contact
+dhchen@uibe.edu.cn
