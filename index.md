@@ -51,6 +51,6 @@ Email: dhchen@uibe.edu.cn
 
 2. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
 
-3. [VaccineAE](https://github.com/dhchenx/projects/VaccineAE/README.md): Vaccine Adverse Event Detection: Taking Covid-19 dataset as an example
+3. [VaccineAE](projects/VaccineAE): Vaccine Adverse Event Detection: Taking Covid-19 dataset as an example
 
 
