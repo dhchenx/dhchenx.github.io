@@ -46,11 +46,22 @@ Email: dhchen@uibe.edu.cn
 
 5. Runtong Zhang, **Donghua Chen**, Xiaopu Shang, Xiaomin Zhu, and Kecheng Liu. A Knowledge-Constrained Access Control Model for Protecting Patient Privacy in Hospital Information Systems. IEEE Journal of Biomedical and Health Informatics, 2018, 22(3):904-911. 
 
-## Open-source Projects
-1. [Catla-HS](https://github.com/dhchenx/Catla-HS): A self-tuning system for MapReduce performance tuning on Hadoop and Spark
+## Selected Open-source Projects
+1. [mmk-features](https://github.com/dhchenx/mmkit-features): A light-weight Python library to utilize multimodal features for deep learning
 
-2. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
+2. [semantic-kit](https://github.com/dhchenx/semantic-kit): A toolkit to estimate semantic similarity and relatedness between words/sentences
 
-3. [VaccineAE](projects/VaccineAE): Vaccine Adverse Event Detection: Taking Covid-19 dataset as an example
+3. [umls-similarity](https://github.com/dhchenx/umls-similarity): Estimate similarity of medical concepts based on Unified Medical Language System (UMLS)
+
+4. [Catla-HS](https://github.com/dhchenx/Catla-HS): A self-tuning system for MapReduce performance tuning on Hadoop and Spark
+
+5. [umls-graph](https://github.com/dhchenx/umls-graph): Build a medical knowledge graph based on Unified Language Medical System (UMLS)
+
+
+6. [quick-crawler](https://github.com/dhchenx/quick-crawler): A toolkit for quickly performing crawler functions
+
+7. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
+
+
 
 
