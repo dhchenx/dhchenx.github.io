@@ -4,7 +4,7 @@
 </center>
 
 ## Introduction
-Donghua Chen, PhD.
+Donghua Chen, Ph.D.
 
 Assistant Professor
 
@@ -17,11 +17,11 @@ Email: dhchen@uibe.edu.cn
 ## Education
 2015-2020   School of Economics and Management, Beijing Jiaotong University, China, PhD
 
-2018-2019   Schulich School of Engineering, University of Calgary, AB, Canada, Visiting student
+2018-2019   Schulich School of Engineering, University of Calgary, AB, Canada, PhD visiting student
 
-2013-2015   School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, Master
+2013-2015   School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, China, Master
 
-2009-2013   School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, Bachelor
+2009-2013   School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, China, Bachelor
 
 
 ## Research Areas
@@ -36,31 +36,37 @@ Email: dhchen@uibe.edu.cn
 5. Knowledge Engineering
 
 ## Selected Publications
-1. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Noninvasive MapReduce Performance Tuning Using Multiple Tuning Methods on Hadoop, IEEE Systems Journal, Sep. 2020, Accepted. 
 
-2. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Leveraging Semantics in WordNet to Facilitate the Computer-Assisted Coding of ICD-11. IEEE Journal of Biomedical and Health Informatics, 2020, 24(5):1469-1476. 
+1. Donghua Chen and Runtong Zhang. Exploring Research Trends of Emerging Technologies in Health Metaverse: A Bibliometric Analysis (January 5, 2022). Preprint at SSRN: [[Link]](http://dx.doi.org/10.2139/ssrn.3998068). [[Project Page]](https://health-metaverse.github.io/).
 
-3. **Donghua Chen**, Runtong Zhang, Hongmei Zhao, and Jiayi Feng. A Bibliometric Analysis of the Development of ICD-11 in Medical Informatics. Journal of Healthcare Engineering, 2019, 2019:1649363. 
+2. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Noninvasive MapReduce Performance Tuning Using Multiple Tuning Methods on Hadoop, IEEE Systems Journal, 15(2):2906-2917, Sep 2020. [[Code]](https://github.com/dhchenx/Catla-HS).
 
-4. **Donghua Chen**, Runtong Zhang, Jiayi Feng, and Kecheng Liu. Fulfilling Information Needs of Patients in Online Health Communities. Health Information and Libraries Journal, 2020, 37(1):48-59. 
+3. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Leveraging Semantics in WordNet to Facilitate the Computer-Assisted Coding of ICD-11. IEEE Journal of Biomedical and Health Informatics, 24(5):1469-1476, 2020. [[Code]](https://github.com/dhchenx/ICD11-CAC).
 
-5. Runtong Zhang, **Donghua Chen**, Xiaopu Shang, Xiaomin Zhu, and Kecheng Liu. A Knowledge-Constrained Access Control Model for Protecting Patient Privacy in Hospital Information Systems. IEEE Journal of Biomedical and Health Informatics, 2018, 22(3):904-911. 
+4. **Donghua Chen**, Runtong Zhang, Hongmei Zhao, and Jiayi Feng. A Bibliometric Analysis of the Development of ICD-11 in Medical Informatics. Journal of Healthcare Engineering, 2019, 2019:1649363. 
+
+5. **Donghua Chen**, Runtong Zhang, Jiayi Feng, and Kecheng Liu. Fulfilling Information Needs of Patients in Online Health Communities. Health Information and Libraries Journal, 2020, 37(1):48-59. 
+
+6. Runtong Zhang, **Donghua Chen**, Xiaopu Shang, Xiaomin Zhu, and Kecheng Liu. A Knowledge-Constrained Access Control Model for Protecting Patient Privacy in Hospital Information Systems. IEEE Journal of Biomedical and Health Informatics, 2018, 22(3):904-911. 
 
 ## Selected Open-source Projects
 1. [mmk-features](https://github.com/dhchenx/mmkit-features): A light-weight Python library to utilize multimodal features for deep learning
 
-2. [semantic-kit](https://github.com/dhchenx/semantic-kit): A toolkit to estimate semantic similarity and relatedness between words/sentences
+2. [AB3DMT](https://github.com/dhchenx/AB3DMT): Agent-based 3D modeling toolkit for human body simulation based on NetLogo
 
-3. [umls-similarity](https://github.com/dhchenx/umls-similarity): Estimate similarity of medical concepts based on Unified Medical Language System (UMLS)
+3. [semantic-kit](https://github.com/dhchenx/semantic-kit): A toolkit to estimate semantic similarity and relatedness between words/sentences
 
-4. [Catla-HS](https://github.com/dhchenx/Catla-HS): A self-tuning system for MapReduce performance tuning on Hadoop and Spark
+4. [umls-similarity](https://github.com/dhchenx/umls-similarity): Estimate similarity of medical concepts based on Unified Medical Language System (UMLS)
 
-5. [umls-graph](https://github.com/dhchenx/umls-graph): Build a medical knowledge graph based on Unified Language Medical System (UMLS)
+5. [Catla-HS](https://github.com/dhchenx/Catla-HS): A self-tuning system for MapReduce performance tuning on Hadoop and Spark
 
+6. [umls-graph](https://github.com/dhchenx/umls-graph): Build a medical knowledge graph based on Unified Language Medical System (UMLS)
 
-6. [quick-crawler](https://github.com/dhchenx/quick-crawler): A toolkit for quickly performing crawler functions
+7. [quick-crawler](https://github.com/dhchenx/quick-crawler): A toolkit for quickly performing crawler functions
 
-7. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
+8. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
+
+A full list of my leading GitHub projects can be found [here](https://github.com/dhchenx/dhchenx). 
 
 
 
