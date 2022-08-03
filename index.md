@@ -37,7 +37,7 @@ Email: dhchen@uibe.edu.cn
 
 ## Selected Publications
 
-1. Donghua Chen and Runtong Zhang. Exploring Research Trends of Emerging Technologies in Health Metaverse: A Bibliometric Analysis (January 5, 2022). Preprint at SSRN: [[Link]](http://dx.doi.org/10.2139/ssrn.3998068). [[Project Page]](https://health-metaverse.github.io/).
+1. **Donghua Chen** and Runtong Zhang. Exploring Research Trends of Emerging Technologies in Health Metaverse: A Bibliometric Analysis (January 5, 2022). Preprint at SSRN: [[Link]](http://dx.doi.org/10.2139/ssrn.3998068). [[Project Page]](https://health-metaverse.github.io/).
 
 2. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Noninvasive MapReduce Performance Tuning Using Multiple Tuning Methods on Hadoop, IEEE Systems Journal, 15(2):2906-2917, Sep 2020. [[Code]](https://github.com/dhchenx/Catla-HS).
 
