@@ -66,6 +66,8 @@ Email: dhchen@uibe.edu.cn
 
 8. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
 
+9. [LightLogo](https://github.com/dhchenx/LightLogo): A lightweight Logo-based agent-based simulation toolkit
+
 A full list of my leading GitHub projects can be found [here](https://github.com/dhchenx/dhchenx). 
 
 
