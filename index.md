@@ -8,11 +8,13 @@ Donghua Chen, Ph.D.
 
 Assistant Professor
 
+Department of Artificial Intelligence
+
 School of Information Technology and Management
 
 University of International Business and Economics, Beijing 100029, China
 
-Email: dhchen@uibe.edu.cn
+Email: dhchen[at]uibe.edu.cn
 
 ## Education
 2015-2020   School of Economics and Management, Beijing Jiaotong University, China, PhD
@@ -25,7 +27,7 @@ Email: dhchen@uibe.edu.cn
 
 
 ## Research Areas
-1. Information Systems
+1. Artificial Intelligence
 
 2. Big Data Analystics
 
@@ -67,6 +69,8 @@ Email: dhchen@uibe.edu.cn
 8. [ICD11-CAC](https://github.com/dhchenx/ICD11-CAC): Computer-assisted coding of ICD-11 based on semantics
 
 9. [LightLogo](https://github.com/dhchenx/LightLogo): A lightweight Logo-based agent-based simulation toolkit
+
+10. [MedSim3D](https://github.com/dhchenx/MedSim3D): A general programmable platform for 3D modeling and simulation in medical education.
 
 A full list of my leading GitHub projects can be found [here](https://github.com/dhchenx/dhchenx). 
 
