@@ -38,9 +38,9 @@ Email: dhchen[at]uibe.edu.cn
 
 ## Selected Publications
 
-1. 陈东华,张润彤.在线健康社区医生多模态信息融合对患者决策行为影响研究[J].现代情报,2022,42(08):37-49.
+1. **陈东华**, 张润彤. 在线健康社区医生多模态信息融合对患者决策行为影响研究[J]. 现代情报, 2022, 42(08):37-49.
 
-2. 陈东华,赵红梅,尚小溥等.数据驱动的大型医院手术室运营预测与优化方法研究[J].数据分析与知识发现,2021,5(09):115-128.
+2. **陈东华**, 赵红梅, 尚小溥等. 数据驱动的大型医院手术室运营预测与优化方法研究[J]. 数据分析与知识发现, 2021, 5(09):115-128.
 
 3. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Leveraging Semantics in WordNet to Facilitate the Computer-Assisted Coding of ICD-11. IEEE Journal of Biomedical and Health Informatics, 24(5):1469-1476, 2020. [[Code]](https://github.com/dhchenx/ICD11-CAC).
 
