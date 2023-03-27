@@ -52,6 +52,8 @@ Email: dhchen[at]uibe.edu.cn
 
 7. Runtong Zhang, **Donghua Chen**, Xiaopu Shang, Xiaomin Zhu, and Kecheng Liu. A Knowledge-Constrained Access Control Model for Protecting Patient Privacy in Hospital Information Systems. IEEE Journal of Biomedical and Health Informatics, 2018, 22(3):904-911. 
 
+8. 陈东华, 张润彤, 付磊等. SNOMED CT体系下医疗健康大数据映射和迁移方法研究[J]. 情报学报, 2018,37(05):524-532.
+
 ## Selected Open-source Projects
 1. [mmk-features](https://github.com/dhchenx/mmkit-features): A light-weight Python library to utilize multimodal features for deep learning
 
