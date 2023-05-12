@@ -25,7 +25,6 @@ Email: dhchen[at]uibe.edu.cn
 
 2009-2013   School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, China, Bachelor
 
-
 ## Research Areas
 1. Artificial Intelligence
 
@@ -39,17 +38,21 @@ Email: dhchen[at]uibe.edu.cn
 
 ## Selected Publications
 
-1. **Donghua Chen** and Runtong Zhang. Exploring Research Trends of Emerging Technologies in Health Metaverse: A Bibliometric Analysis (January 5, 2022). Preprint at SSRN: [[Link]](http://dx.doi.org/10.2139/ssrn.3998068). [[Project Page]](https://health-metaverse.github.io/).
+1. **陈东华**, 张润彤. 在线健康社区医生多模态信息融合对患者决策行为影响研究[J]. 现代情报, 2022, 42(08):37-49.
 
-2. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Noninvasive MapReduce Performance Tuning Using Multiple Tuning Methods on Hadoop, IEEE Systems Journal, 15(2):2906-2917, Sep 2020. [[Code]](https://github.com/dhchenx/Catla-HS).
+2. **陈东华**, 赵红梅, 尚小溥等. 数据驱动的大型医院手术室运营预测与优化方法研究[J]. 数据分析与知识发现, 2021, 5(09):115-128.
 
 3. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Leveraging Semantics in WordNet to Facilitate the Computer-Assisted Coding of ICD-11. IEEE Journal of Biomedical and Health Informatics, 24(5):1469-1476, 2020. [[Code]](https://github.com/dhchenx/ICD11-CAC).
 
-4. **Donghua Chen**, Runtong Zhang, Hongmei Zhao, and Jiayi Feng. A Bibliometric Analysis of the Development of ICD-11 in Medical Informatics. Journal of Healthcare Engineering, 2019, 2019:1649363. 
+4. **Donghua Chen**, Runtong Zhang, and Robin G. Qiu. Noninvasive MapReduce Performance Tuning Using Multiple Tuning Methods on Hadoop, IEEE Systems Journal, 15(2):2906-2917, Sep 2020. [[Code]](https://github.com/dhchenx/Catla-HS).
 
 5. **Donghua Chen**, Runtong Zhang, Jiayi Feng, and Kecheng Liu. Fulfilling Information Needs of Patients in Online Health Communities. Health Information and Libraries Journal, 2020, 37(1):48-59. 
 
-6. Runtong Zhang, **Donghua Chen**, Xiaopu Shang, Xiaomin Zhu, and Kecheng Liu. A Knowledge-Constrained Access Control Model for Protecting Patient Privacy in Hospital Information Systems. IEEE Journal of Biomedical and Health Informatics, 2018, 22(3):904-911. 
+6. **Donghua Chen**, Runtong Zhang, Hongmei Zhao, and Jiayi Feng. A Bibliometric Analysis of the Development of ICD-11 in Medical Informatics. Journal of Healthcare Engineering, 2019, 2019:1649363. 
+
+7. Runtong Zhang, **Donghua Chen**, Xiaopu Shang, Xiaomin Zhu, and Kecheng Liu. A Knowledge-Constrained Access Control Model for Protecting Patient Privacy in Hospital Information Systems. IEEE Journal of Biomedical and Health Informatics, 2018, 22(3):904-911. 
+
+8. 陈东华, 张润彤, 付磊等. SNOMED CT体系下医疗健康大数据映射和迁移方法研究[J]. 情报学报, 2018,37(05):524-532.
 
 ## Selected Open-source Projects
 1. [mmk-features](https://github.com/dhchenx/mmkit-features): A light-weight Python library to utilize multimodal features for deep learning
